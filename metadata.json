@@ -1,0 +1,6 @@
+{
+  "name": "گردشگری عمومی - آموزش فنی و حرفه‌ای",
+  "description": "سامانه آموزش تخصصی گردشگری عمومی بر اساس استانداردهای سازمان آموزش فنی و حرفه‌ای کشور با Jetpack Compose و Kotlin",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
